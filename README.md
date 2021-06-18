@@ -1,8 +1,18 @@
 # ecommerce-php
-### This PHP ecommerce project was build on the basis for learning modern real-life practical PHP, and the concepts of MVC model for creating complex websites. 
+This PHP ecommerce project was build on the basis for learning modern real-life practical PHP, and the concepts of MVC model for creating complex websites. 
 To demo this project in local computers, please use Xampp, and:
-1) Start the Apache and MySQL in Xampp 
-2) Create a database named "ecommerce" in phpmyadmin
-3) Import the sql file from the database folder to the ecommerce database on phpmyadmin 
-4) View the project in browser typing "localhost//ecommerce-php" (or, name of the directory containing all the files)
+
+### Things you need to know to preview this project:
+1. How to use xampp offline server enviroment.<br>  
+1. How to find and open localhost port number for xampp.<br>
+1. How to navigate to and work with phpMyAdmin using xampp and your local browser.<br>
+
+### To preview this project after downloading, follow these steps: 
+1. Go to download xampp instraller from https://www.apachefriends.org/index.html and install the software.<br>
+1. After installing xampp, copy this project to "htdocs" folder in the xampp install folder.<br>
+1. Start the Apache and MySQL.<br>
+1. open your desired browser and start the localhost and go to the localhost/phpMyAdmin and create a new batabase with the name "ecommerce".<br>
+1. Then import the file with .sql file extension from the "database" folder from the project to phpMyAdmin.<br>
+1. Lastly, go to localhost/ecommerce-php to view the porject.<br>
+
 ## Enjoy
