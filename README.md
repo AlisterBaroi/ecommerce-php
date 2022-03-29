@@ -1,6 +1,6 @@
 # ecommerce-php
-This PHP ecommerce project was build on the basis for learning modern real-life practical PHP, and the concepts of MVC model for creating complex websites. 
-To demo this project in local computers, please use Xampp, and:
+This PHP ecommerce project was build and deployed on Microsoft Azure on the basis for learning modern real-life practical PHP, the concepts of MVC model for creating complex websites, and to learn to use cloud platforms to deploy apps/websites. 
+To demo this project in local computers, please use Xampp.
 
 ### Things you need to know to preview this project:
 1. How to use xampp offline server enviroment.<br>  
